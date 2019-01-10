@@ -59,7 +59,7 @@ Write a program that finds weird numbers between given range. Example: lower num
 	12 is not a weird number.
 
 
-7. **CH003 :: LCM of numbers**
+7. **CH007 :: LCM of numbers**
 
  	Write a program to take input from user to find the LCM of those numbers.
  	
