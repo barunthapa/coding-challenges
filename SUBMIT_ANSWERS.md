@@ -6,8 +6,8 @@ Here is how you can submit your answer for the [challenges](https://github.com/b
 1. Fork the repo.
 1. Create a branch with appropriate name.
 1. Create the code file using following naming convention  
- <challenge-name>_<your-github-username>  
- Eg: number_splitter_barunthapa.go
+ `<challenge-name>_<your-github-username>`  
+ Eg: `number_splitter_barunthapa.go`
  
 1. Write your solution, commit and push.
 1. Create a pull request against this repo from your branch in forked repo.
